@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a Front-end developer with 8+ years of experience developing web applications for corporate clients.
+I’m a Senior Front-end developer with 8+ years of experience developing web applications for corporate clients.
 
 I have worked with Retail clients, Loyalty platforms, and Energy management clients based out of London, US and Canada.   
   
