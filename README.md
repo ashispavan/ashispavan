@@ -29,7 +29,7 @@ I have worked with Retail clients, Loyalty platforms, and Energy management clie
 - 🔭 RIght now, I am working for a leading Streaming service provider, and my tech stack is NextJS and NodeJS.  
   
 
-- 🌱 I’m currently learning iOS app development in SwiftUI, and Kubernetes.  
+- 🌱 I’m currently building an e-commerce platform for resto-cafes using MedusaJS 
 - 📫 You can reach me on Twitter: @ashisdotdev
 
 </td><td valign="top" width="50%">
